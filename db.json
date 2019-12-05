@@ -1,0 +1,26 @@
+{
+events: [
+      {
+        name: 'Vacation',
+        details: 'Going to the beach!',
+        start: '2018-12-29',
+        end: '2019-01-01',
+        color: 'blue'
+      },
+      {
+        name: 'Meeting',
+        details: 'Spending time on how we do not have enough time',
+        start: '2019-01-07 09:00',
+        end: '2019-01-07 09:30',
+        color: 'indigo'
+      },
+      {
+        name: 'Large Event',
+        details:
+          'This starts in the middle of an event and spans over multiple events',
+        start: '2018-12-31',
+        end: '2019-01-04',
+        color: 'deep-purple'
+      }
+    ]
+    }
